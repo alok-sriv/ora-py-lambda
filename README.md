@@ -5,7 +5,8 @@ How to use Lambda (Python) to connect to an Oracle DB
 This repositories shows how to build a Lambda (Python) function with all required dependicies that can connect to RDS Oracle Instance.
 I used linux environment to build all dependent packages.
 
-# Step1 :Download and unzip oracle instant basic clinet from https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html. I used instantclient-basic-linux.x64-12.2.0.1.0.zip.
+# Step1 : Oracle Clinet Requirements
+Download and unzip oracle instant basic clinet from https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html. I used instantclient-basic-linux.x64-12.2.0.1.0.zip.
 
 $:/home/Lambda/ora12_client > ls -ltr 
 -rw-r--r-- xxxx xxxx xxxx instantclient-basic-linux.x64-12.2.0.1.0.zip
