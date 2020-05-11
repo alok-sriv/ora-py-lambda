@@ -1,5 +1,5 @@
 # ora-py-lambda
-How to use Lambda (Python) to connect to an Oracle DB
+How to use Lambda (Python) to connect to an Oracle DB with with all required dependicies.
 
 # Introduction 
 This repositories shows how to build a Lambda (Python) function with all required dependicies that can connect to RDS Oracle Instance.
